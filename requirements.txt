@@ -1,0 +1,15 @@
+ansible
+netaddr
+jmespath
+pywinrm
+passlib
+requests
+docker
+boto3
+azure-identity
+azure-mgmt-compute
+google-auth
+google-cloud-storage
+psycopg2-binary
+napalm
+pyvmomi

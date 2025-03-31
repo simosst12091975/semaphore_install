@@ -1,0 +1,21 @@
+---
+
+collections:
+  - 'community.general'
+  - 'ansible.posix'
+  - 'ansible.windows'
+  - 'amazon.aws'
+  - 'azure.azcollection'
+  - 'google.cloud'
+  - 'ansible.netcommon'
+  - 'community.network'
+  - 'community.mysql'
+  - 'community.postgresql'
+  - 'community.docker'
+  - 'kubernetes.core'
+  - 'community.crypto'
+  - 'community.hashi_vault'
+  
+roles:
+  - src: 'geerlingguy.git'
+  - src: 'geerlingguy.security'
